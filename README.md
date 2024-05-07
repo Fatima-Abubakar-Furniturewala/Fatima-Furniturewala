@@ -5,7 +5,7 @@
 
 🌱 I've Completed a Graduate Certificate in Cloud Architecture and Administration at Seneca Polytechnic enhancing my knowledge in cloud platforms like AWS and Azure, and a Bachelor’s in Information Technology Engineering from M. H. Saboo Siddik College of Engineering - Mumbai University
 
-💼 My professional journey includes a role as a Sales Representative at Value Mobile, where I excelled in customer service and solution selling.
+💼 My part time working journey includes a role as a Sales Representative at Value Mobile, where I excelled in customer service and solution selling.
 
 👨‍💻 Proficient in cloud platforms (AWS, Azure), containerization (Docker, Kubernetes), programming languages (C, C#, Python, VBA, HTML5, CSS, JS, Angular, ReactJS), and has a strong understanding of .NET framework and Object-Oriented programming.
 
